@@ -19,17 +19,17 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-Firstname {}, lastname {}! ഞാൻ [ഇദ്ദേഹം](tg://user?id={}) welcome to your suniofficialbot
+Firstname {}, lastname {}!type  [officialt](tg://user?id={}) welcome to your mniofficialbot
 
-iam a powerful group management bot written in python3 hence python-telegram-bot and hencefourth. Add me as a admin .  [ഇവിടെ](https://github.com/jithumon/tgbot) കാണുവാൻ സാധിക്കും.
+iam a powerful group management bot written in python3 hence python-telegram-bot and hencefourth. Add me as a admin .  [ഇവിടെ](https://github.com/Rdipofficial/tgbot).Official.
 
-എന്നെപ്പോലെ ഒരു അഡ്മിൻ ബോട്ടിനെ ഉണ്ടാക്കുവാൻ താഴെ കൊടുത്തിരിക്കുന്ന വീഡിയോ കാണുക.
+And will be maintained dont worry about maintainence.
 
-എന്റെ അപ്ഡേറ്റുകളെക്കുറിച്ചും പ്രവർത്തനത്തെപറ്റിയും അറിയുവാൻ അപ്ഡേറ്റ് ചാനൽ സബ്സ്ക്രൈബ് ചെയ്യുക.
+and dont forget to join my updates channel sunisupport.
 
-കൂടെ താഴെ കൊടുത്തിരിക്കുന്ന ടെക് ഗെയിമിംഗ് യൂട്യൂബ് ചാനൽ സബ്സ്ക്രൈബ് ചെയ്യാനും മറക്കേണ്ട.
+if you need any help see below.
 
-ലഭ്യമായ കമാന്റുകളെപ്പറ്റി അറിയുവാൻ /help അമർത്തുക.
+if you need a help simply type /help command.
 
 """
 
